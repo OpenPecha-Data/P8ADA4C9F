@@ -1,0 +1,38 @@
+id: P8ADA4C9F
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG25336
+  instance_id: http://purl.bdrc.io/resource/IE1KG5762
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    zh-latn-pinyin-x-ndia:
+    - qing shi
+    bo:
+    - དེབ་ཐེར་སྔོན་པོ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P318
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    bab54bb746a2474db8d9b7712200f78d:
+      title: པོད ༢་དེབ་ཐེར་སྔོན་པོ།
+      volume_number: 2
+      base_file: UT1KG5762_I1KG5771_0000.txt
+      reference: http://purl.bdrc.io/resource/VLDBB1EA902038A80C
+      image_group: I1KG5771
+      quality: Low
+    985ab9502a2e45668a39ce345ad53334:
+      title: པོད ༡་དེབ་ཐེར་སྔོན་པོ།
+      volume_number: 1
+      base_file: UT1KG5762_I1KG5770_0000.txt
+      reference: http://purl.bdrc.io/resource/VLF56756EF36055F1D
+      image_group: I1KG5770
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG5762
+  - http://purl.bdrc.io/resource/MW1KG5762
+  ocr_software: Namsel
+created_at: '2021-12-22T10:52:31.752115'
+last_modified_at: '2021-12-22T10:52:31.752120'
